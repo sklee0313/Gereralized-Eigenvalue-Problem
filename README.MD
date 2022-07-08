@@ -1,6 +1,6 @@
 # Solution of the generalized eigenvalue problem in structural analysis
-# PhD Candidate Sungkwon Lee | Finite Element Research Group | MIT
-# 06/14/2022
+## PhD Candidate Sungkwon Lee | Finite Element Research Group | MIT
+## 06/14/2022
 
 
 
@@ -9,7 +9,7 @@ In the directory "example", an example of a vibration analysis given. The "probl
 
 
 To run the executable "main" in the directory "build", open the terminal in the directory and enter
-./main ../mesh_slenderRing.txt
+  ./main ../mesh_slenderRing.txt
 
 
 

@@ -1,6 +1,7 @@
 # Finite element solution of the generalized eigenvalue problem
 
 An example code for the solution of the generalized eigenvalue problem in structural analysis
+
 Eigen library is used for linear algebra
 
 1. In the directory "example", an example of a vibration analysis given. The "problem_description.jpg" illustrates the problem considered, and the "mesh_slenderRing.txt" is the mesh used.

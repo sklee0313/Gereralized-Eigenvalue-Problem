@@ -6,7 +6,9 @@ An example code for the solution of the generalized eigenvalue problem in struct
 2. The incompatible mode element [1] is used for discretization, and the generalized eigenvalue problem is solved using Spectra library.
 3. To run the executable "main" in the directory "build", open the terminal in the directory and enter
 
+'''
   ./main ../mesh_slenderRing.txt
+'''
 
 Reference
 [1] Bathe, Klaus-Jürgen. Finite element procedures. Klaus-Jurgen Bathe, 2006.

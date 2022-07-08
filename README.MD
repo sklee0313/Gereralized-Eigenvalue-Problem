@@ -2,7 +2,7 @@
 
 An example code for the solution of the generalized eigenvalue problem in structural analysis. [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) is used for linear algebra.
 
-1. A vibration analysis is given in "/example". We calculate the natural frequencies of the structure shown below using the mesh. The mesh data is "/example/vibrationAnalysis/mesh_slenderRing.txt".
+1. A vibration analysis is given in "/example". We calculate the natural frequencies of the structure shown below using the mesh. The mesh data can be found in "/example/vibrationAnalysis/mesh_slenderRing.txt".
 
 <dl>
 <img src="example/vibrationAnalysis/problem_description.jpg" width="626" height="400">  

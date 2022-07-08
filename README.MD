@@ -2,7 +2,7 @@
 
 An example code for the solution of the generalized eigenvalue problem in structural analysis. [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) is used for linear algebra.
 
-1. In the directory "example", a vibration analysis given. The problem and mesh used are shown below. The mesh data is found "/example/mesh_slenderRing.txt".
+1. In "/example", a vibration analysis given. The problem and mesh used are shown below. The mesh data is found "/example/mesh_slenderRing.txt".
 <img src="example/vibrationAnalysis/problem_description.jpg" width="626" height="400" />
 2. The incompatible mode element [1] is used for discretization, and the generalized eigenvalue problem is solved using [Spectra](https://spectralib.org/).  
 3. To run the executable "main" in the directory "build", open the terminal in the directory and enter

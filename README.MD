@@ -10,7 +10,7 @@ An example code for the solution of the generalized eigenvalue problem in struct
   ./main ../mesh_slenderRing.txt
 ```
 
-Reference
+## Reference
 [1] Bathe, Klaus-Jürgen. Finite element procedures. Klaus-Jurgen Bathe, 2006.
 
 

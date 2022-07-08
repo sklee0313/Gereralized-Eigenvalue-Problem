@@ -8,9 +8,9 @@ An example code for the solution of the generalized eigenvalue problem in struct
 <img src="example/vibrationAnalysis/problem_description.jpg" width="626" height="400">  
 </dl>
 
-2. The incompatible mode element [1] is used for discretization, and the generalized eigenvalue problem is solved using [Spectra](https://spectralib.org/)
+2. The incompatible mode element [1] is used for discretization, and the generalized eigenvalue problem is solved using [Spectra](https://spectralib.org/).
 
-3. To run the executable "main" in the directory "build", open the terminal in the directory and enter
+3. To run the executable "main" in the directory "example/build", open the terminal in the directory and enter
  
 ```
   ./main ../mesh_slenderRing.txt
